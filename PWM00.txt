@@ -176,3 +176,11 @@ AT+CSIM=42,84820100104FCF5A34AF869B185BDC0094B36E0EA4
 13、
 14、
 15、
+
+
+<<<<<<< HEAD
+jjjj
+=======
+
+gggggg
+>>>>>>> master001
